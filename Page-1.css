@@ -17,7 +17,12 @@
 .u-section-2 .u-layout-cell-1 {min-height: 655px; pointer-events: auto}
 .u-section-2 .u-container-layout-1 {padding: 30px 60px}
 .u-section-2 .u-text-1 {margin: 31px 0 0}
+<<<<<<< HEAD
 .u-section-2 .u-text-2 {margin: 31px 0 0}
+=======
+.u-section-2 .u-icon-1 {height: 48px; width: 48px; background-image: none; margin: 89px auto 0}
+.u-section-2 .u-text-2 {margin: -88px 0 0}
+>>>>>>> 58670f79f09a13052edf7db245a8b9d8efed674f
 .u-section-2 .u-image-1 {min-height: 655px; pointer-events: auto; background-image: url("images/22516225-0.png"); background-position: 50% 50%}
 .u-section-2 .u-container-layout-2 {padding: 30px 60px} 
 
